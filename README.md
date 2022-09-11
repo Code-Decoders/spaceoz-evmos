@@ -28,7 +28,7 @@ Live Website (https://spaceoz-evmos.netlify.app)
 
 Youtube Video Demo
 
-[![Youtube Video](https://img.youtube.com/vi/7LX2aEoyXFc/sddefault.jpg)](https://youtu.be/yZwc0QGiBBw)
+[![Youtube Video](https://img.youtube.com/vi/yZwc0QGiBBw/sddefault.jpg)](https://youtu.be/yZwc0QGiBBw)
 
 
 
