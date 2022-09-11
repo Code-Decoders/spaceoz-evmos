@@ -28,7 +28,7 @@ Live Website (https://spaceoz-evmos.netlify.app)
 
 Youtube Video Demo
 
-[![Youtube Video](https://img.youtube.com/vi/7LX2aEoyXFc/sddefault.jpg)](https://youtu.be/7LX2aEoyXFc)
+[![Youtube Video](https://img.youtube.com/vi/7LX2aEoyXFc/sddefault.jpg)](https://youtu.be/yZwc0QGiBBw)
 
 
 
@@ -54,13 +54,13 @@ Youtube Video Demo
 Clone the project
 
 ```bash
-  git clone https://github.com/Code-Decoders/spaceoz-lukso
+  git clone https://github.com/Code-Decoders/spaceoz-evmos
 ```
 
 Go to the project directory
 
 ```bash
-  cd spaceoz-lukso
+  cd spaceoz-evmos
 ```
 
 Install dependencies
