@@ -1,5 +1,4 @@
 import React, { useContext, useEffect } from 'react'
-import { useChain, useMoralis, useMoralisWeb3Api, useTokenPrice, useWeb3Contract, useWeb3ExecuteFunction } from 'react-moralis'
 import styles from '../styles/Navbar.module.css';
 // import InventoryABI from '../build/contracts/SpacePolyInventory.json';
 import BigNumber from 'bignumber.js';

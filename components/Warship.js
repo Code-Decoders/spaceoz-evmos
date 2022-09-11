@@ -1,11 +1,6 @@
 import React, { useEffect } from "react";
 import styles from "../styles/Warship.module.css";
 import ReactBlockies from "react-blockies";
-import {
-  useMoralis,
-  useWeb3Contract,
-  useWeb3ExecuteFunction,
-} from "react-moralis";
 import BigNumber from "bignumber.js";
 // import Inventory from '../build/contracts/SpacePolyToken.json'
 import { toast } from "react-toastify";

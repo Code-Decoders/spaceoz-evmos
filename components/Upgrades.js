@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import { useMoralis, useWeb3Contract } from "react-moralis";
 import { toast } from "react-toastify";
 import { mint, mintWithToken } from "../lib/evmosAdaptor";
 import styles from "../styles/Upgrades.module.css";

@@ -1,6 +1,5 @@
 import Main from '../components/Layout'
 import '../styles/globals.css'
-import { MoralisProvider } from "react-moralis"
 import React, { useEffect } from 'react'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';

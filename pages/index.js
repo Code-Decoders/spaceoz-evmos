@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import React, { useContext, useEffect } from 'react'
-import { useMoralis, useMoralisWeb3Api } from 'react-moralis'
 import { toast } from 'react-toastify'
 import Upgrades from '../components/Upgrades'
 import Warship from '../components/Warship'
