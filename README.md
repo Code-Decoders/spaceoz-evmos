@@ -19,8 +19,8 @@
 
 ## Deployed Smart Contracts
 
-- [The Inventory NFT Token](https://evm.evmos.dev/address/0x3034c57e8753B107926dE4b2cA889B728c87D480/transactions)
-- [The SPT In-Game-Token](https://evm.evmos.dev/address/0x280730941320aB22C4864eddde14EA8859354bA6/transactions)
+- [The Inventory NFT Token](https://evm.evmos.dev/address/0x50826018e9e672D9467c75eA48c4802573520Ca8/transactions)
+- [The SPT In-Game-Token](https://evm.evmos.dev/address/0x4C42FE4671394c5e2e0e81AEcE913bd3a9570015/transactions)
 
 ## Demo
 
